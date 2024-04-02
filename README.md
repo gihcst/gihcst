@@ -5,6 +5,6 @@
 
 <div align="center"> 
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gihcst&theme=outrun)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gihcst&theme=modern-lilac)](https://git.io/streak-stats)
 
 </div>
